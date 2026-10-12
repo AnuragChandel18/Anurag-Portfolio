@@ -4,7 +4,7 @@ A responsive, static personal portfolio built with HTML, CSS and JavaScript. It 
 
 ## Live Demo
 
-**Portfolio website:** [Visit Anurag Chandel’s Portfolio](https://anuragchandel18.github.io/portfolio/)
+**Portfolio website:** [Visit Anurag Chandel’s Portfolio](https://anuragchandel18.github.io/Anurag-Portfolio/)
 
 > This link is the intended GitHub Pages URL. It will start working after this repository is uploaded to GitHub and GitHub Pages deployment is enabled.
 
